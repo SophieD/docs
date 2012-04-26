@@ -91,7 +91,7 @@ This project tracks issues at MongoDB's :issue:`DOCS` project.
 If you see a problem with the documentation, please report it there.
 
 Writing Documentation
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 The MongoDB Manual uses `Sphinx <http://sphinx.pocoo.org/>`_, a
 sophisticated documentation engine built upon `Python Docutils
